@@ -53,6 +53,11 @@ curl -fsSL https://raw.githubusercontent.com/voidgazer009/vic-awesome-mcp/main/i
 
 Vic 自己写的 MCP Server：[vic-mcp-servers](https://github.com/voidgazer009/vic-mcp-servers)
 
+
+## 公共数据 API（Apify）
+
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/README.zh-CN.md) - 18 个托管在 Apify 上的公共数据 MCP 服务器：美国联邦合同与资助（SAM.gov、Grants.gov、USAspending）、欧盟 TED 与英国招标、市议会会议、Ashby/Greenhouse/Lever/SmartRecruiters 职位、公司社交账号、Google 广告透明度、Etsy 销量、体育赔率、Spotify 播放量.
+
 ## License
 
 本仓库的文字、目录和脚本采用 MIT 许可。各 MCP Server 归原作者所有，遵循各自许可证。
